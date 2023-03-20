@@ -1,0 +1,3 @@
+-> shift + mouse wheel up to move horizontal scrollbar
+-> ctrl + mouse wheel zoom in 
+-> shift + up to move box and increment height or width by 10
