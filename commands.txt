@@ -2,3 +2,4 @@
 -> ctrl + mouse wheel zoom in 
 -> shift + up to move box and increment height or width by 10
 -> shift + left click to select mutltiple items
+-> Select frame and press shift and mouse to see spaces between them
